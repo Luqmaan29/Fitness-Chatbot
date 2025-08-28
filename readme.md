@@ -96,10 +96,3 @@ This project provided **hands-on experience** with:
 
 The chatbot is **robust, adaptable, and easily extended** to new domains simply by changing source URLs.
 
----
-
-## 🚀 Getting Started
-
-### Install Requirements
-```bash
-pip install -r requirements.txt
